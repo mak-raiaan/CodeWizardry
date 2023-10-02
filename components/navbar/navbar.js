@@ -1,5 +1,5 @@
 import logo from "../../public/images/logo.png";
-import yeasir_img from "../../public/images/yeasir.jpg";
+import yeasir_img from "../../public/images/raiaan.jpg";
 import Image from "next/image";
 import { Menu, Popover, Transition } from "@headlessui/react";
 import { MagnifyingGlassIcon } from "@heroicons/react/20/solid";

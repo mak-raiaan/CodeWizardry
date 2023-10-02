@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useState } from "react";
 import { Menu, Popover, Transition } from "@headlessui/react";
-import yeasir_img from "../../public/images/yeasir.jpg";
+import yeasir_img from "../../public/images/raiaan.jpg";
 import SaveRoundedIcon from "@mui/icons-material/SaveRounded";
 import Ask_AI from "./ask_ai";
 import {
@@ -39,7 +39,7 @@ import { useRouter } from "next/router";
 const user = {
   name: "Yeasir Arafat",
   email: "yeasir402@gmail.com",
-  imageUrl: "/images/yeasir.jpg",
+  imageUrl: "/images/raiaan.jpg",
 };
 // const comments = [
 //   {
@@ -79,7 +79,7 @@ const quicklinks = [
 //     views: "2.7k",
 //     author: {
 //       name: "Yeasir Arafat",
-//       imageUrl: "/images/yeasir.jpg",
+//       imageUrl: "/images/raiaan.jpg",
 //       href: "#",
 //     },
 //     date: "December 9 at 11:43 AM",
@@ -97,7 +97,7 @@ const quicklinks = [
 //     views: "2.7k",
 //     author: {
 //       name: "Yeasir Arafat",
-//       imageUrl: "/images/yeasir.jpg",
+//       imageUrl: "/images/raiaan.jpg",
 //       href: "#",
 //     },
 //     date: "December 9 at 11:43 AM",
@@ -114,19 +114,19 @@ const whoToFollow = [
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl: "/images/yeasir.jpg",
+    imageUrl: "/images/raiaan.jpg",
   },
   {
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl: "/images/yeasir.jpg",
+    imageUrl: "/images/raiaan.jpg",
   },
   {
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl: "/images/yeasir.jpg",
+    imageUrl: "/images/raiaan.jpg",
   },
   // More people...
 ];
@@ -135,7 +135,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg",
+      imageUrl: "/images/raiaan.jpg",
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -144,7 +144,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg",
+      imageUrl: "/images/raiaan.jpg",
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -153,7 +153,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg",
+      imageUrl: "/images/raiaan.jpg",
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -162,7 +162,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg",
+      imageUrl: "/images/raiaan.jpg",
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -171,7 +171,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg",
+      imageUrl: "/images/raiaan.jpg",
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,

@@ -1,6 +1,6 @@
 import { Fragment, useEffect, useState } from "react";
 import { Menu, Popover, Transition } from "@headlessui/react";
-import yeasir_img from '../../public/images/yeasir.jpg'
+import yeasir_img from '../../public/images/raiaan.jpg'
 import {
   ChatBubbleLeftEllipsisIcon,
   CodeBracketIcon,
@@ -41,7 +41,7 @@ const items = [
 const user = {
   name: "Yeasir Arafat",
   email: "yeasir402@gmail.com",
-  imageUrl:"/images/yeasir.jpg"
+  imageUrl:"/images/raiaan.jpg"
 };
 const navigation = [
   { name: "Home", href: "#", icon: HomeIcon, current: true },
@@ -78,7 +78,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl:"/images/yeasir.jpg"
+      imageUrl:"/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -87,7 +87,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl:"/images/yeasir.jpg"
+      imageUrl:"/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -96,7 +96,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg"
+      imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -105,7 +105,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg"
+      imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -114,7 +114,7 @@ const trendingPosts = [
     id: 1,
     user: {
       name: "Yeasir Arafat",
-      imageUrl: "/images/yeasir.jpg"
+      imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
     comments: 291,
@@ -127,17 +127,17 @@ const whoToFollow = [
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl:"/images/yeasir.jpg"  },
+    imageUrl:"/images/raiaan.jpg"  },
   {
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl:"/images/yeasir.jpg"  },
+    imageUrl:"/images/raiaan.jpg"  },
   {
     name: "Yeasir Arafat",
     handle: "yeasirar",
     href: "#",
-    imageUrl:"/images/yeasir.jpg"  },
+    imageUrl:"/images/raiaan.jpg"  },
   // More people...
 ];
 
