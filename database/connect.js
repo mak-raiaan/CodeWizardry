@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
 
-const MONGODB_URI = "mongodb+srv://yeasir:yeasir@cluster0.ujeivtm.mongodb.net/algomst?retryWrites=true&w=majority"
+const MONGODB_URI = process.env.MONGODB_URI;
+
 
 async function connect() {
   await mongoose.connect(MONGODB_URI, {
@@ -10,4 +11,3 @@ async function connect() {
 }
 
 module.exports = { connect };
-
