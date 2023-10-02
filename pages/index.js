@@ -3,7 +3,7 @@ export default function Example({search}) {
   return (
     <div>
     <header>
-      <title>AlgoMaster - Question and Answer</title>
+      <title>CodeWizardry</title>
     </header>
       <HomePage search={search}/>
     </div>
