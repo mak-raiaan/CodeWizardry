@@ -39,7 +39,7 @@ const items = [
   { id: 3, title: 'User Interface Designer', department: 'Design', type: 'Full-time', location: 'Remote' },
 ]
 const user = {
-  name: "Yeasir Arafat",
+  name: "Mak Raiaan",
   email: "yeasir402@gmail.com",
   imageUrl:"/images/raiaan.jpg"
 };
@@ -77,7 +77,7 @@ const trendingPosts = [
   {
     id: 1,
     user: {
-      name: "Yeasir Arafat",
+      name: "Mak Raiaan",
       imageUrl:"/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
@@ -86,7 +86,7 @@ const trendingPosts = [
   {
     id: 1,
     user: {
-      name: "Yeasir Arafat",
+      name: "Mak Raiaan",
       imageUrl:"/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
@@ -95,7 +95,7 @@ const trendingPosts = [
   {
     id: 1,
     user: {
-      name: "Yeasir Arafat",
+      name: "Mak Raiaan",
       imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
@@ -104,7 +104,7 @@ const trendingPosts = [
   {
     id: 1,
     user: {
-      name: "Yeasir Arafat",
+      name: "Mak Raiaan",
       imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
@@ -113,7 +113,7 @@ const trendingPosts = [
   {
     id: 1,
     user: {
-      name: "Yeasir Arafat",
+      name: "Mak Raiaan",
       imageUrl: "/images/raiaan.jpg"
     },
     body: "How to cleanly make multiple elements movable anywhere?",
@@ -124,17 +124,17 @@ const trendingPosts = [
 ];
 const whoToFollow = [
   {
-    name: "Yeasir Arafat",
+    name: "Mak Raiaan",
     handle: "yeasirar",
     href: "#",
     imageUrl:"/images/raiaan.jpg"  },
   {
-    name: "Yeasir Arafat",
+    name: "Mak Raiaan",
     handle: "yeasirar",
     href: "#",
     imageUrl:"/images/raiaan.jpg"  },
   {
-    name: "Yeasir Arafat",
+    name: "Mak Raiaan",
     handle: "yeasirar",
     href: "#",
     imageUrl:"/images/raiaan.jpg"  },
