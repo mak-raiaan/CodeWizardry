@@ -5,7 +5,7 @@ const contactPage = () => {
   return (
     <div>
     <header>
-      <title>AlgoMaster</title>
+      <title>CodeWizardry</title>
     </header>
       <Contact />
     </div>

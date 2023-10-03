@@ -34,7 +34,7 @@ import { Input } from "@material-tailwind/react";
 const user = {
   name: "Yeasir Arafat",
   email: "yeasir402@gmail.com",
-  imageUrl: "/images/yeasir.jpg",
+  imageUrl: "/images/raiaan.jpg",
 };
 const navigation = [
   { name: "Home", href: "#", icon: HomeIcon, current: false },
