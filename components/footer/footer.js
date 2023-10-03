@@ -26,7 +26,7 @@ const Footer = () => {
                 />
               </Link>
               <div className="self-center text-lg font-semibold whitespace-nowrap  dark:text-zinc-300">
-                {/* problem tmr, matha betha amadr */}
+                {}
               </div>
             </div>
             <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
@@ -57,7 +57,7 @@ const Footer = () => {
                 <ul className="text-gray-600 dark:text-gray-400 font-medium">
                   <li className="mb-4">
                     <Link
-                      href="https://github.com/yeasirar"
+                      href="https://github.com/mak-raiaan"
                       className="hover:underline "
                     >
                       Github
@@ -65,7 +65,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link
-                      href="#"
+                      href="https://discordapp.com/users/586474278795476993"
                       className="hover:underline"
                     >
                       Discord
@@ -103,7 +103,7 @@ const Footer = () => {
             </span>
             <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
               <Link
-                href="https://facebook.com/yeasir.offical"
+                href="https://www.facebook.com/MakRaiaan31/"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
@@ -139,7 +139,7 @@ const Footer = () => {
                 <span className="sr-only">Instagram page</span>
               </Link>
               <Link
-                href="#"
+                href="https://www.instagram.com/mr_schrute__"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
@@ -153,7 +153,7 @@ const Footer = () => {
                 <span className="sr-only">Twitter page</span>
               </Link>
               <Link
-                href="https://github.com/yeasirar"
+                href="https://github.com/mak-raiaan"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
